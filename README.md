@@ -16,15 +16,27 @@ Index.html
 	  </header>
 	  <main>
 	    <section id="hero-unit">
+	      <header>
+	        <h1>About Mojo</h1>
+	      </header>
 	      <!-- add hero content here -->
 	    </section>
 	    <section id="tweets">
+	      <header>
+	        <h1>Tweets</h1>
+	      </header>
 	      <!-- add tweets content here -->
 	    </section>
 	    <section id="blog">
+	      <header>
+	        <h1>Blog</h1>
+	      </header>
 	      <!-- add blog content here -->
 	    </section>
 	    <section id="newsletter">
+	      <header>
+	        <h1>Newsletter</h1>
+	      </header>
 	      <!-- add newsletter content here -->
 	    </section>
 	  </main>
