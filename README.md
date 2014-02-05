@@ -11,7 +11,7 @@ Index.html
     <header>
       <h1>Mojo</h1>  <!-- add Header logo image or content here -->
       <nav>
-        <!-- add Header nav links here -->
+        <h2>Site Navigation</h2>  <!-- add Header nav links here -->
       </nav>
     </header>
     <main>
