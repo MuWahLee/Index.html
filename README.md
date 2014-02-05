@@ -13,6 +13,10 @@ Index.html
       <nav>
         <h2>Site Navigation</h2>  <!-- add Header nav links here -->
       </nav>
+      ...
+      <nav>
+        <h2>Site Map</h2>
+      </nav>
     </header>
     <main>
       <section id="hero-unit">
