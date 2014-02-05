@@ -5,7 +5,7 @@ Index.html
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>my first page</title>
+    <title>Basic HTML Page Structure</title>
   </head>
   <body>
     <header>
@@ -13,33 +13,29 @@ Index.html
       <nav>
         <h2>Site Navigation</h2>  <!-- add Header nav links here -->
       </nav>
-      ...
-      <nav>
-        <h2>Site Map</h2>
-      </nav>
     </header>
     <main>
       <section id="hero-unit">
         <header>
-          <h1>About Mojo</h1>
+          <h2>About Mojo</h2>
         </header>
         <!-- add hero content here -->
       </section>
       <section id="tweets">
         <header>
-          <h1>Tweets</h1>
+          <h2>Tweets</h2>
         </header>
         <!-- add tweets content here -->
       </section>
       <section id="blog">
         <header>
-          <h1>Blog</h1>
+          <h2>Blog</h2>
         </header>
         <!-- add blog content here -->
       </section>
       <section id="newsletter">
         <header>
-          <h1>Newsletter</h1>
+          <h2>Newsletter</h2>
         </header>
         <!-- add newsletter content here -->
       </section>
