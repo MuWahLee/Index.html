@@ -12,16 +12,16 @@ Index.html
       <h1>Mojo</h1>  <!-- add Header logo image or content here -->
       <nav>
         <h2>Site Navigation</h2>  <!-- add Header nav links here -->
-          <ul>
-            <li><a href="/about">About</a></li>
-            <li><a href="/coffee">Coffee</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/training">Training</a></li>
-            <li><a href="/people">People</a></li>
-            <li><a href="/locations">Locations</a></li>
-            <li><a href="/store">Store</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/contact">Contact</a></li>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/coffee">Coffee</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/training">Training</a></li>
+          <li><a href="/people">People</a></li>
+          <li><a href="/locations">Locations</a></li>
+          <li><a href="/store">Store</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/contact">Contact</a></li>
           </ul>
       </nav>
     </header>
@@ -54,7 +54,7 @@ Index.html
     <footer>
       <!-- add Footer content here -->
       <nav>
-        <!-- add Footer links here -->
+        <h2>Site Map</h2> <!-- add Footer links here -->
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/about">About</a></li>
