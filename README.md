@@ -8,7 +8,7 @@ Index.html
     <title>Basic HTML Page Structure</title>
   </head>
   <body>
-    <header>
+    <header role="banner">
       <h1>Mojo</h1>  <!-- add Header logo image or content here -->
       <nav>
         <h2>Site Navigation</h2>  <!-- add Header nav links here -->
@@ -25,7 +25,7 @@ Index.html
           </ul>
       </nav>
     </header>
-    <main>
+    <main role="main">
       <section id="hero-unit">
         <header>
           <h2>About Mojo</h2>
