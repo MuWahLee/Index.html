@@ -12,16 +12,16 @@ Index.html
       <h1>Mojo</h1>  <!-- add Header logo image or content here -->
       <nav>
         <h2>Site Navigation</h2>  <!-- add Header nav links here -->
-        <ul>
-          <li><a href="/about">About</a></li>
-          <li><a href="/coffee">Coffee</a></li>
-          <li><a href="/services">Services</a></li>
-          <li><a href="/training">Training</a></li>
-          <li><a href="/people">People</a></li>
-          <li><a href="/locations">Locations</a></li>
-          <li><a href="/store">Store</a></li>
-          <li><a href="/blog">Blog</a></li>
-          <li><a href="/contact">Contact</a></li>
+        <ul role="menubar">
+          <li role="presentation"><a role="menuitem" href="/about">About</a></li>
+          <li role="presentation"><a role="menuitem" href="/coffee">Coffee</a></li>
+          <li role="presentation"><a role="menuitem" href="/services">Services</a></li>
+          <li role="presentation"><a role="menuitem" href="/training">Training</a></li>
+          <li role="presentation"><a role="menuitem" href="/people">People</a></li>
+          <li role="presentation"><a role="menuitem" href="/locations">Locations</a></li>
+          <li role="presentation"><a role="menuitem" href="/store">Store</a></li>
+          <li role="presentation"><a role="menuitem" href="/blog">Blog</a></li>
+          <li role="presentation"><a role="menuitem" href="/contact">Contact</a></li>
           </ul>
       </nav>
     </header>
@@ -55,20 +55,20 @@ Index.html
       <!-- add Footer content here -->
       <nav>
         <h2>Site Map</h2> <!-- add Footer links here -->
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/coffee">Coffee</a></li>
-          <li><a href="/services">Services</a></li>
-          <li><a href="/training">Training</a></li>
-          <li><a href='/people'>People</a></li>
-          <li><a href="locations">Locations</a></li>
-          <li><a href="cafe_information">Cafe Information</a></li>
-          <li><a href="/blog">Blog</a></li>
-          <li><a href="/VIP_application">VIP Application</a></li>
-          <li><a href="/venue_inquiry">Venue Inquiry</a></li>
-          <li><a href='contact'>Contact</a></li>
-          <li><a href="/privacy">Privacy</a></li>
+        <ul role="menu">
+          <li role="presentation"><a role="menuitem" href="/">Home</a></li>
+          <li role="presentation"><a role="menuitem" href="/about">About</a></li>
+          <li role="presentation"><a role="menuitem" href="/coffee">Coffee</a></li>
+          <li role="presentation"><a role="menuitem" href="/services">Services</a></li>
+          <li role="presentation"><a role="menuitem" href="/training">Training</a></li>
+          <li role="presentation"><a role="menuitem" href='/people'>People</a></li>
+          <li role="presentation"><a role="menuitem" href="locations">Locations</a></li>
+          <li role="presentation"><a role="menuitem" href="cafe_information">Cafe Information</a></li>
+          <li role="presentation"><a role="menuitem" href="/blog">Blog</a></li>
+          <li role="presentation"><a role="menuitem" href="/VIP_application">VIP Application</a></li>
+          <li role="presentation"><a role="menuitem" href="/venue_inquiry">Venue Inquiry</a></li>
+          <li role="presentation"><a role="menuitem" href='contact'>Contact</a></li>
+          <li role="presentation"><a role="menuitem" href="/privacy">Privacy</a></li>
         </ul>
       </nav>
     </footer>
