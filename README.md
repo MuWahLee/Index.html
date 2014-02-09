@@ -58,6 +58,16 @@ Index.html
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/about">About</a></li>
+          <li><a href="/coffee">Coffee</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/training">Training</a></li>
+          <li><a href='/people'>People</a></li>
+          <li><a href="locations">Locations</a></li>
+          <li><a href="cafe_information">Cafe Information</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/VIP_application">VIP Application</a></li>
+          <li><a href="/venue_inquiry">Venue Inquiry</a></li>
+          <li><a href='contact'>Contact</a></li>
           <li><a href="/privacy">Privacy</a></li>
         </ul>
       </nav>
